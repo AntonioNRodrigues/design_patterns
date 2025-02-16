@@ -1,10 +1,3 @@
-# Spring Design Patterns Example
-
-## Overview
-
-This project is a demonstration of various design patterns implemented in a Spring Boot application. The application is
-a simplified e-commerce platform with basic functionalities like user management, product catalog, and order processing.
-
 ## Design Patterns
 
 The following design patterns are implemented in this project:
