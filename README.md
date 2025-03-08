@@ -5,7 +5,7 @@ The following design patterns are implemented in this project:
 ### Creational Patterns
 
 1. **Singleton**
-    - **Location**: `com.implementations.designpatterns.config.SingletonConfig`
+    - **Location**: `com.implementations.designpatterns.singleton.SingletonConfig`
     - **Description**: Ensures a class has only one instance and provides a global point of access to it.
         - **UML Diagram**:
           ```
